@@ -10,3 +10,5 @@ This project contains solution for computational problems:
    Computed energy levels and wavefunctions in Python using 
    the Finite Difference Method.
 
+# Physics
+
