@@ -44,7 +44,7 @@ E,Wavefunction=np.linalg.eigh(H)
 print("Eigen Values:",E[:3])
 
 # plotting ground state wave function
-#  np.zeros create empty array for wave function
+# np.zeros create empty array for wave function
 plt.figure(figsize=(8, 5))
 
 for n in range(3):
