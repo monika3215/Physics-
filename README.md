@@ -1,5 +1,5 @@
 # Physics
-This project contains solution for 
+This project contains solution for computational problems:
 1. Blackbody Radiation:
    Computed and plotted Planck Spectra in Python using NumPy and Matplotlib.
 
